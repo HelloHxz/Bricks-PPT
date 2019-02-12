@@ -39,6 +39,7 @@ node_modules/
 jspm_packages/
 
 react-bricks/
+xzLightApp/
 react-bricks-web/
 
 # Typescript v1 declaration files
